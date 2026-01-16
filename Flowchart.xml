@@ -1,0 +1,17 @@
+﻿<XtraSerializer version="25.1.3.0">
+  <Items>
+    <Item1 ItemKind="DiagramRoot" SelectedStencils="BasicShapes, ArrowShapes, DecorativeShapes">
+      <Children>
+        <Item1 Position="370,50" Size="100,75" Shape="BasicShapes.Ellipse" Content="Start" ItemKind="DiagramShape" />
+        <Item2 Position="360,160" Size="100,75" Shape="BasicShapes.Parallelogram" Content="User's name" ItemKind="DiagramShape" />
+        <Item3 Points="(Empty)" ItemKind="DiagramConnector" BeginItem="0" EndItem="1" BeginPoint="410,50" EndPoint="420,160" />
+        <Item4 Position="50,320" Size="100,75" Shape="BasicShapes.Ellipse" ItemKind="DiagramShape" />
+        <Item5 Position="350,320" Size="100,75" Shape="BasicShapes.Ellipse" ItemKind="DiagramShape" />
+        <Item6 Position="750,320" Size="100,75" Shape="BasicShapes.Ellipse" ItemKind="DiagramShape" />
+        <Item7 Points="(Empty)" ItemKind="DiagramConnector" BeginItem="1" EndItem="4" BeginPoint="420,160" EndPoint="410,280" />
+        <Item8 Points="733,197.5 733,357.5" ItemKind="DiagramConnector" BeginItem="1" EndItem="5" BeginPoint="420,160" EndPoint="490,317.5" />
+        <Item9 Points="167,197.5 167,357.5" ItemKind="DiagramConnector" BeginItem="1" EndItem="3" BeginPoint="370,197.5" EndPoint="290,317.5" />
+      </Children>
+    </Item1>
+  </Items>
+</XtraSerializer>
