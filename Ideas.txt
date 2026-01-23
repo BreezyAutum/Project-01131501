@@ -7,9 +7,16 @@ Online verion of calculator project using HTML
 Forkbomb
 
 Calculator
+- Make it loop
 - Add binomial equations to calculator
 - Add trig functions
 - Add graphing?
 - Add graphics and interactive buttons
 - Square roots
 - Radicals
+- Factorials
+- Modes: Graphing, standard, scientific
+-- Allow each to be downloaded as independant builds
+Text based adventure game!
+Make a personal portfolio website
+- NO IDEA HOW TO ACTUALLY DO THIS YET BUT GITHUB PAGES WORK SOOOOO... yeah

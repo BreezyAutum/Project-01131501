@@ -1,14 +1,14 @@
 # Project 01131501
 ## By BreezyAutum
-### Latest Update: V1.0
-- Calculator V1.0 released
-- Latest Update section added to README.md
--- You're here now :D
+### Latest Update: V1.1: Armadillo in KISS Makeup Edition
+- Calculator V1.1 released
+-- Changed int values to floats
 - Upaded Ideas.txt
-- General README updates, mostly currently working on section
-- Removed How to Download from README. If you're downloading a random student's project, I'm going to assume you have some Git experience. There are also tutorials on this.
-- Added Flowchart.xml although it is in very early construction
-- Updated Goals
+-- I CAN MAKE A GAME!!!
+- Then I started making said game
+- Added index.html for a personal website
+- Website GH-0.1 Released
+-- Added folder for easy header and footer copy/paste
 
 ### Goals
 This is a work in progress project that I hope to:
@@ -38,10 +38,7 @@ This project is for me and me alone, but if you are some who is not me reading t
 - README
 -- (What you are currently reading)
 -- Learn how to use Markdown better so I can properly format this file and all other READMEs I will eventually have to make.
-- Git
--- I've had some issues with Git, GitHub, and VS Code while even in class, so bear with me while I am still learning all of this.
-- Python
--- I took an Introduction to Python class years ago in high school. The class did not cover much at all, but I still enjoyed it and led me to here. That said, it has been quite a while since I've used Python, so I will need to review. There's still a lot for me to learn as well.
+- I don't know how to host a website, but the github pages thing is working very well for now :D
 
 ### Closing Remarks
 Thank you for checking out my project! I hope to update it soon! I have lots of plans for this little project.
